@@ -1,0 +1,74 @@
+Datenschutzerklärung – NRW ✘ Ticket
+
+Stand:** 20. Oktober 2026
+
+1. Verantwortlicher
+
+Verantwortlich für den Betrieb des Discord-Bots „NRW ✘ Ticket“:
+
+Adam Isayev
+E-Mail: ersno2007@gmail.com
+
+2. Zweck des Bots
+
+NRW ✘ Ticket ist ein Discord-Bot zur Verwaltung von Support-Tickets auf Discord-Servern.
+
+Der Bot ermöglicht es Nutzern, Tickets zu öffnen und zu schließen. Berechtigte Personen können Tickets annehmen und bearbeiten.
+
+3. Welche Daten werden verarbeitet?
+
+Im Rahmen der Ticketfunktionen können folgende Daten verarbeitet werden:
+
+- Discord-Nutzerkennungen, um Tickets Nutzern zuzuordnen
+- Server- und Kanalinformationen, soweit diese für die Ticketverwaltung erforderlich sind
+- Nachrichteninhalte innerhalb von Tickets, soweit sie über Discord zugänglich sind
+- Informationen darüber, ob ein Ticket geöffnet, angenommen oder geschlossen wurde
+
+Der Bot benötigt Discord-Berechtigungen, um Kanäle anzusehen, Nachrichtenverläufe einzusehen und Nachrichten zu senden. Diese Berechtigungen werden im Rahmen der vorgesehenen Ticketfunktionen verwendet.
+
+Ob und welche Daten dauerhaft gespeichert werden, hängt von der technischen Implementierung des Bots ab.
+
+4. Zweck und Rechtsgrundlage der Verarbeitung
+
+Die Verarbeitung dient ausschließlich der Bereitstellung und Verwaltung der Ticketfunktionen, insbesondere der Kommunikation zwischen Nutzern und dem zuständigen Support-Team.
+
+Die konkrete Rechtsgrundlage richtet sich nach den Umständen des jeweiligen Servers und der tatsächlichen Datenverarbeitung. Sie muss vom Betreiber geprüft werden.
+
+5. Speicherung und Löschung
+
+Ticket-Nachrichten können während der Bearbeitung für die Kommunikation zwischen Nutzern und dem Support-Team zugänglich sein.
+
+Ob Ticketdaten über das Schließen eines Tickets hinaus gespeichert werden, hängt von der technischen Umsetzung ab.
+
+Daten sollen nur so lange aufbewahrt werden, wie dies für den jeweiligen Zweck erforderlich ist, sofern keine andere rechtmäßige Grundlage für eine längere Speicherung besteht.
+
+6. Discord und weitere Dienste
+
+Der Bot nutzt die Plattform Discord. Discord verarbeitet Daten im Rahmen seines eigenen Dienstes.
+
+Weitere Hosting-Anbieter oder Datenbanken sind zu ergänzen, sofern sie tatsächlich für den Betrieb des Bots eingesetzt werden.
+
+7. Rechte betroffener Personen
+
+Betroffene Personen können im Rahmen der gesetzlichen Voraussetzungen insbesondere folgende Rechte haben:
+
+- Recht auf Auskunft über ihre personenbezogenen Daten
+- Recht auf Berichtigung unrichtiger Daten
+- Recht auf Löschung personenbezogener Daten
+- Recht auf Einschränkung der Verarbeitung
+- Recht auf Widerspruch, sofern die gesetzlichen Voraussetzungen vorliegen
+- Recht auf Datenübertragbarkeit, sofern die gesetzlichen Voraussetzungen erfüllt sind
+
+Datenschutzanfragen können an folgende E-Mail-Adresse gerichtet werden:
+
+ersno2007@gmail.com
+
+Darüber hinaus besteht das Recht, sich bei einer zuständigen Datenschutzaufsichtsbehörde zu beschweren.
+
+8. Datensicherheit
+
+Der Betreiber sollte geeignete technische und organisatorische Maßnahmen treffen, um personenbezogene Daten vor unbefugtem Zugriff, Verlust und unzulässiger Veränderung zu schützen.
+
+9. Änderungen dieser Datenschutzerklärung
+
+Diese Datenschutzerklärung wird angepasst, wenn sich die Funktionen des Bots oder die Verarbeitung personenbezogener Daten ändern.
